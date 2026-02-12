@@ -1,5 +1,9 @@
 {
   "url": "https://example.com",
   "password": "Sh@buj11",
-  "refreshInterval": 300
+  "refreshInterval": 300,
+  "allowedDomains": ["yourwebsite.com"],
+  "showStatusBar": false,
+  "enableJavaScript": true,
+  "userAgent": null
 }
