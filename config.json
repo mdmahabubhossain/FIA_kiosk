@@ -2,7 +2,7 @@
   "url": "https://kiosk.secure-api.net/fia/mobile2",
   "password": "Sh@buj11",
   "refreshInterval": 300,
-  "allowedDomains": ["google.com"],
+  "allowedDomains": ["kiosk.secure-api.net"],
   "showStatusBar": false,
   "enableJavaScript": true,
   "userAgent": null
