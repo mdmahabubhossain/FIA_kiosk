@@ -6,6 +6,5 @@
   "showStatusBar": false,
   "enableJavaScript": true,
   "userAgent": null,
-  "pageRefreshInterval": 100
-  
+  "pageRefreshInterval": 500
 }
