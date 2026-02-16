@@ -5,5 +5,7 @@
   "allowedDomains": ["kiosk.secure-api.net"],
   "showStatusBar": false,
   "enableJavaScript": true,
-  "userAgent": null
+  "userAgent": null,
+  "pageRefreshInterval": 60
+  
 }
