@@ -1,0 +1,10 @@
+{
+  "url": "https://kiosk.secure-api.net/fia/mobile/quick-give",
+  "password": "Sh@buj11",
+  "refreshInterval": 300,
+  "allowedDomains": ["kiosk.secure-api.net"],
+  "showStatusBar": false,
+  "enableJavaScript": true,
+  "userAgent": null,
+  "pageRefreshInterval": 500
+}
