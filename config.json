@@ -1,7 +1,7 @@
 {
   "url": "https://kiosk.secure-api.net/fia/mobile2",
   "password": "Sh@buj11",
-  "refreshInterval": 300,
+  "refreshInterval": 100,
   "allowedDomains": ["kiosk.secure-api.net"],
   "showStatusBar": false,
   "enableJavaScript": true,
